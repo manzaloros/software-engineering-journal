@@ -6,6 +6,7 @@
 *   Installed macvim, open with ctrl-cmd-v
 *   Write quit from mac vim and it will copy automatically to clip board
 *   ZZ saves and quits from normal mode
+* `%` when you're in a bracket will take you to the matching bracket
 
 12/28/20
 

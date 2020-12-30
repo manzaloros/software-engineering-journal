@@ -3,6 +3,9 @@ Search for term using “/”, then enter visual mode to select it
 Installed macvim, open with ctrl-cmd-v
 Write quit from mac vim and it will copy automatically to clip board
 ZZ saves and quits from normal mode
+Added some bash aliases for journal and projects
+Installed gist and created gistbash alias
+
 
 12/28/20
 “Don’t save” shortcut on mac is command-backspace
